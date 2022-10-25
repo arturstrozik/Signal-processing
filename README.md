@@ -1,3 +1,3 @@
 # Signal-processing
 
-Jest to Colab Notebook z zadaniami z przetwarzania sygnałów. Zadania zpostały przygotowane przez prof. dr hab. inż. Tomasz Zieliński oraz dr inż. Jarosław Bułat z Akademi górniczo-hutniczej w krakowie. Rozwiązania zadań zostały przygotowane z użyciem języka Python. Aby je uruchomić należy pobrać plik, a następnie wejdź na stronę https://colab.research.google.com/ Kolejno w zakładce prześli, wskaż pobrany plik.
+This is a Colab Notebook with Signal Processing Tasks. The tasks were prepared by prof. dr hab. Eng. Tomasz Zieliński and dr inż. Jarosław Bułat from the AGH University of Science and Technology in Kraków. The solutions to the problems were prepared using Python. To run them, click on the link: https://colab.research.google.com/github/arturstrozik/Signal-processing/blob/main/signal_processing.ipynb
